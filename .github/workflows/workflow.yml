@@ -12,6 +12,5 @@ jobs:
  - name: Display Custom Message
  run: |
  echo "------------------------------------"
- echo "Welcome to your first GitHub Actions wo
-rkflow!"
+ echo "Welcome to your first GitHub Actions workflow!"
  echo "------------------------------------"
